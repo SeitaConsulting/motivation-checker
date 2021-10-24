@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "motivation-checker"
+    }
+  },
+  "defaultProject": "motivation-checker",
+  "cli": {
+    "analytics": "0835fafe-5931-45a4-a8df-9351f0ea2bb1"
+  }
 }
